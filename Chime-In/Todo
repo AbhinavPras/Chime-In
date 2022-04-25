@@ -1,0 +1,29 @@
+To do list 
+
+For integration with Nucleo Board:
+
+idle():
+
+passcodeCheck():
+
+difficulty():
+-Adjust values so they properly reflect the difficulty
+
+lightOn():
+-
+
+gameplay():
+-
+
+deactivate():
+-Right now, deactivate loops forever and there's no way to exit (not what we want)
+-Integrate passcode check to see if the operator wants to fully reset the game
+
+win():
+-
+
+lose():
+-
+
+main():
+-Make it so that main actually terminates?
